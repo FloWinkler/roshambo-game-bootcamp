@@ -2,9 +2,9 @@
     <samp>
         <b>
             <a>
-               👑
+               ✊✋✌️
                 <br>
-                CHESS GAME FROM SCRATCH
+                ROCK PAPER SCISSORS
             </a>
         </b>
     <samp/>
